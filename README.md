@@ -10,10 +10,10 @@ A responsive Weather App built using React and Material-UI, powered by the OpenW
 - 📱 Responsive design with Material-UI
 
 
-## 🚀 Features
+## 🔧 Tech Stack
 
-- 🔍 Search weather by city name  
-- 🌡️ Shows current temperature, min/max temp, and feels-like temp  
-- 💧 Displays humidity and weather description  
-- ⛅ Dynamic icons and images based on weather (sunny, rainy, cold)  
-- 📱 Responsive design with Material-UI
+- **React.js**
+- **Material-UI (MUI)**
+- **OpenWeatherMap API**
+- HTML, CSS, JavaScript
+
